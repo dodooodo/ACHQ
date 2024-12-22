@@ -1,4 +1,4 @@
-# ACHQ-Reproduction
+# ACHQ
 Unofficial implementation of paper "Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems" in AISTATS 2024.
 
 ## Disclaimer 
